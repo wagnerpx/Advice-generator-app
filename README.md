@@ -31,8 +31,8 @@ Nesse projeto foi bem desafiador centralizar os elementos, mais no fínal deu tu
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-frontend-mentor-K2rYmF_0G1)
+- Live Site URL: [Live site URL](https://wagnerpx.github.io/Advice-generator-app/)
 
 ## Autor
 
